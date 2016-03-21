@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 import java.util.*;
 
 /**
- * @author mkyong - petit test
+ * @author mkyong - petit test à ma façon
  * http://www.mkyong.com/unittest/junit-4-tutorial-1-basic-usage/
  */
 public class JunitTest1 {
