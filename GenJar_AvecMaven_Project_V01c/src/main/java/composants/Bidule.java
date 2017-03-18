@@ -4,6 +4,7 @@ package composants;
 // en plus !!!
 // avec comic me
 // A partir d'ici changt de deux fichiers
+// je suis sur FORK
 public class Bidule {
 	String truc;
 	String machin;

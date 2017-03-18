@@ -7,6 +7,7 @@ import java.util.logging.Logger;
 
 // modif22 of the code
 // comment on synchro yet
+// Moi aussi je suis sur FORK
 public class Synchro {
 
 	Logger log = Logger.getLogger(this.getClass().getName());
