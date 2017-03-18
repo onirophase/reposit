@@ -1,5 +1,6 @@
 package composants;
-
+//commentaire
+// en plus !!!
 public class Bidule {
 	String truc;
 	String machin;
