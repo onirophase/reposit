@@ -1,7 +1,9 @@
+//febore
 package composants;
 //commentaire
 // en plus !!!
 // avec comic me
+// A partir d'ici changt de deux fichiers
 public class Bidule {
 	String truc;
 	String machin;
