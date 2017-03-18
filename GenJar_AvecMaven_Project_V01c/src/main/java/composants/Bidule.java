@@ -1,6 +1,7 @@
 package composants;
 //commentaire
 // en plus !!!
+// avec comic me
 public class Bidule {
 	String truc;
 	String machin;
